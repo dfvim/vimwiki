@@ -22,3 +22,5 @@ Session.vim
 ehthumbs.db
 Thumbs.db
 vimtest
+# ignore commit message
+.gitcommit
